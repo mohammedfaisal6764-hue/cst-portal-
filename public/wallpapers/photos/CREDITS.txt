@@ -1,0 +1,14 @@
+Wallpaper photos — Unsplash License (free to use). Photographers:
+- foggy-forest.jpg — Sourav Ghosh
+- pine-lake.jpg — Zetong Li
+- shore.jpg — Luke Stackpoole
+- snow-peaks.jpg — Lucian Dachman
+- iceland.jpg — Luca Micheli
+- golden-hills.jpg — Cristina Gottardi
+- mountain-lake.jpg — Sean Afnan
+- sunset-shore.jpg — Zetong Li
+- dusk-dunes.jpg — Mike Yukhtenko
+- dolomites.jpg — Benjamin Voros
+- canyon.jpg — Jad Limcaco
+- mist-ridge.jpg — Marian Kroell
+Sourced via the pop-os/wallpapers and linuxdeepin/deepin-wallpapers GitHub repositories.

@@ -1,0 +1,10 @@
+name = "cst-upload"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+[[r2_buckets]]
+binding = "BUCKET"
+bucket_name = "cst-files"
+
+[vars]
+R2_PUBLIC_URL = "https://pub-ddebc4d9132440929089ea028c059b27.r2.dev"
